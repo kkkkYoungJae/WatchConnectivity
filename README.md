@@ -13,7 +13,7 @@ https://velog.io/@young-jev/WatchOS-React-Native와-WatchOS-연결하기
 ## Demo
 
 ```
-git clone https://github.com/kkkkYoungJae/WatchConnectivityDemo.git
+git clone https://github.com/kkkkYoungJae/WatchConnectivity.git
 yarn install
 cd ios
 pod install
