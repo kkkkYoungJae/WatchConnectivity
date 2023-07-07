@@ -1,4 +1,4 @@
-# WatchConnectivityDemo
+# WatchConnectivity
 
 Communicate with your Apple Watch apps over the React Native bridge.<br/>
 애플워치와 React Native를 연결해보자.<br/>
